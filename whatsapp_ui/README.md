@@ -4,6 +4,8 @@ A new Flutter project.
 
 ## Getting Started
 
+## Screenshot
+
 ![Simulator Screenshot - iPhone 14 Pro Max - 2023-06-04 at 12 40 44](https://github.com/rzkarsyad/learn-flutter/assets/62179572/f47beedc-29f8-4eb4-9956-6859c6c9325f)
 
 This project is a starting point for a Flutter application.
