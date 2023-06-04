@@ -17,4 +17,6 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Screenshot
 
-![Simulator Screenshot - iPhone 14 Pro Max - 2023-06-04 at 12 40 44](https://github.com/rzkarsyad/learn-flutter/assets/62179572/f47beedc-29f8-4eb4-9956-6859c6c9325f)
+https://github.com/rzkarsyad/learn-flutter/assets/62179572/607efa10-b521-41d8-b131-eb62d1f72ca4
+
+
